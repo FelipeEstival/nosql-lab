@@ -14,7 +14,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-
 ## Popular o banco
 
 Execute na pasta `nosql-lab`:
@@ -29,7 +28,7 @@ O arquivo `seed.py` usa `insert_many` e cria:
 - 10 alunos;
 - 30 matriculas.
 
-## Executa esse trem
+## Executar de verdade esse trem:
 
 ```bash
 python mongo_cursos/main.py
